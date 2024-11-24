@@ -30,8 +30,6 @@ I'm a young tech entrepreneur and developer passionate about using technology to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<!--
-
 ## 🏆 Featured Projects
 
 ### [Project Name 1](https://github.com/yourusername/project1)
